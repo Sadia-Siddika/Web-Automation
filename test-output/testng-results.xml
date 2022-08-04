@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-27T12:20:11 BDT" name="Default suite" finished-at="2022-07-27T12:20:19 BDT" duration-ms="8802">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T12:20:11 BDT" name="Default test" finished-at="2022-07-27T12:20:19 BDT" duration-ms="8802">
+      <class name="testCases.TC004_checkBoxAndRadioButtonAdvance">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:testCases.TC004_checkBoxAndRadioButtonAdvance@36a5cabc]" started-at="2022-07-27T12:20:04 BDT" name="setDriver" finished-at="2022-07-27T12:20:11 BDT" duration-ms="6525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="checkBoxAndRadioButtonInIFrame()[pri:0, instance:testCases.TC004_checkBoxAndRadioButtonAdvance@36a5cabc]" started-at="2022-07-27T12:20:11 BDT" name="checkBoxAndRadioButtonInIFrame" finished-at="2022-07-27T12:20:19 BDT" duration-ms="8694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxAndRadioButtonInIFrame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC004_checkBoxAndRadioButtonAdvance@36a5cabc]" started-at="2022-07-27T12:20:19 BDT" name="tearDown" finished-at="2022-07-27T12:20:20 BDT" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC004_checkBoxAndRadioButtonAdvance -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
